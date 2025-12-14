@@ -1,3 +1,3 @@
 # samikshademo
 This is my first git repository.
-<br>author-samiksha anwat
+<br>author-samiksha anwat.
